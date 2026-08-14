@@ -3,10 +3,6 @@
 A collection of custom integrations, scripts, and helper tooling built around
 **Delinea Secret Server** (and related Delinea platform components).
 
-The material here is gathered from real-world customer and internal work:
-one-off integrations, migration and upgrade helpers, API samples, and assorted
-utilities that did not fit anywhere else.
-
 ---
 
 ## ⚠️ Disclaimer — Provided "AS IS"
