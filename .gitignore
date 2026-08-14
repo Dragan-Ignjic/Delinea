@@ -1,0 +1,22 @@
+# Editors / IDEs
+.vs/
+.vscode/
+.idea/
+
+# Build output
+bin/
+obj/
+dist/
+build/
+node_modules/
+
+# Secrets / local config
+*.env
+.env.*
+appsettings.Development.json
+*.pfx
+*.key
+
+# OS cruft
+Thumbs.db
+desktop.ini
