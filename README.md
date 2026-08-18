@@ -1,7 +1,10 @@
-# Delinea
+# unofficial-delinea-tools
 
 A collection of custom integrations, scripts, and helper tooling built around
 **Delinea Secret Server** (and related Delinea platform components).
+
+**Unofficial.** This is a personal/community collection. It is not produced,
+endorsed, or supported by Delinea. See the disclaimer below.
 
 ---
 
