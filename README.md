@@ -1,4 +1,4 @@
-# Delinea
+# unofficial-delinea-tools
 
 A collection of custom integrations, scripts, and helper tooling built around
 **Delinea Secret Server** (and related Delinea platform components).
