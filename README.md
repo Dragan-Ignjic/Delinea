@@ -49,6 +49,17 @@ as a reference example rather than a finished tool.
 
 ---
 
+## Repository structure
+
+| Folder | Description |
+| --- | --- |
+| [`Platform Upgrade`](Platform%20Upgrade/) | Reports and scripts supporting the move from Secret Server Cloud to the Delinea Platform — pre-migration discovery, data hygiene, remediation, and post-upgrade verification. |
+
+Folders are added as the work comes up; this table is updated to match. See each
+folder's own README for details, prerequisites, and usage.
+
+---
+
 ## Requirements
 
 Requirements differ per script, but commonly:
@@ -85,7 +96,6 @@ Requirements differ per script, but commonly:
   it rotated immediately.
 
 ---
-
 
 ## License
 
